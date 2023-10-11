@@ -7,6 +7,7 @@ Follow these steps to set up and run the Library API on your local machine. The 
 
 1. Node.js and npm are installed on your machine.
 2. MongoDB is installed and running locally. If not, you can download it from [here](https://www.mongodb.com/try/download/community) and follow the installation instructions for your OS.
+3. There's 2 JSON (library.books and library.authors) which contains the few entries I've worked with during the challenge.
 
 ### Steps
 
