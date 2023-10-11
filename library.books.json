@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65269d73198ff7c17ac7e297"
+  },
+  "title": "Harry Potter Azkaban",
+  "author": {
+    "$oid": "6526968fd3822551d36a0656"
+  },
+  "publishedIn": {
+    "$date": "2008-03-10T00:00:00.000Z"
+  },
+  "rating": 42,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65269ec85586db97db37502a"
+  },
+  "title": "Harry Potter Philosopher stone",
+  "author": {
+    "$oid": "6526968fd3822551d36a0656"
+  },
+  "publishedIn": {
+    "$date": "2004-02-10T00:00:00.000Z"
+  },
+  "rating": 42,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526b222f8816ee50b3ee785"
+  },
+  "title": "Fanstastic Creatures 1",
+  "author": {
+    "$oid": "6526968fd3822551d36a0656"
+  },
+  "publishedIn": {
+    "$date": "2016-02-10T00:00:00.000Z"
+  },
+  "rating": 42,
+  "available": true,
+  "__v": 0
+}]

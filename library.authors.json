@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6526945691a54e37b51f729e"
+  },
+  "name": "J.D. Salinger",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-1453593600000"
+    }
+  },
+  "dateOfDeath": {
+    "$date": "2012-03-20T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526968fd3822551d36a0656"
+  },
+  "name": "J.K. Rowling",
+  "dateOfBirth": {
+    "$date": "1978-05-04T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6526bfab6914dc2fb48a1c99"
+  },
+  "name": "Dante Alighieri",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-21750422400000"
+    }
+  },
+  "dateOfDeath": {
+    "$date": {
+      "$numberLong": "-20509113600000"
+    }
+  },
+  "__v": 0
+}]
